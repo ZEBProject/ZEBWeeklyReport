@@ -7,7 +7,7 @@
 
 项目成员：
 
-* 七两（[blog](developfan.com)）
+* 七两（[blog](https://www.developfan.com)）
 * 阿刚
 * 亮亮
 
