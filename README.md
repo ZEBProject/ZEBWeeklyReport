@@ -7,7 +7,7 @@
 
 项目成员：
 
-* 七两（[blog](https://www.developfan.com)）
+* 七两（[blog](http://www.developfan.com)）
 * 阿刚
 * 亮亮
 
@@ -37,12 +37,13 @@
 |类别|博客链接          |简单概述         |贡献         |
 |---|----------------|----------------|-------------|
 |网络|                |               |              |
-|行为轨迹|[关于埋点](http://www.jianshu.com/p/0497afdad36d)|可复用而且高度解耦的用户统计埋点实现|阿刚|
+|    |[关于埋点](http://www.jianshu.com/p/0497afdad36d)|可复用而且高度解耦的用户统计埋点实现|阿刚|
 
 ## 开发效率
 |博客链接          |简单概述         |贡献         |
 |----------------|----------------|-------------|
 |[多个Target的使用](http://www.jianshu.com/p/d1608ff946a9)|讲述了iOS开发中多个Target的使用|阿刚|
+
 ## Apple通用部分
 |博客链接          |简单概述         |贡献         |
 |----------------|----------------|-------------|
@@ -59,4 +60,23 @@
 |----------------|----------------|-------------|
 |[生成git标签](https://shields.io)|git上面readme中的标签生成|七两|
 ## 博客推荐
+|博客             |博主信息        |贡献         |
+|----------------|----------------|-------------|
+|[ibireme](https://blog.ibireme.com/)|YYKit的开发者，文章虽少，每篇经典透彻|七两|
+|[网易乐得技术团队](http://tech.lede.com/2017/02/15/rd/iOS/iOS_NSURLProtocol/)|网易乐得技术团队
+|七两|
+|[喵神](http://onevcat.com/)|喵神|七两|
+|[腾讯bugly](http://www.cnblogs.com/bugly/)|腾讯bugly|七两|
+|[Casa](https://casatwy.com/archives.html)|Casa|七两|
+|[阿毛的蛋疼地](http://xiangwangfeng.com/)|阿毛的蛋疼地|七两|
+|[美团点评技术团队](https://tech.meituan.com/)|美团点评技术团队|七两|
+|[百度HI团队](https://github.com/BaiduHiDeviOS/iOS-Tech-Weekly)|百度HI团队|七两|
+|[FaceBookiOS技术团队blog](https://code.facebook.com/ios/)|FaceBookiOS技术团队blog|七两|
+|[巧神](http://blog.devtang.com/)|唐巧|七两|
+|[nshipster](http://nshipster.cn/)|nshipster.cn|七两|
+|[OBJC中国](http://www.objccn.io/)|OBJC中国|七两|
+|[bang](http://blog.cnbang.net/)|JSPatch开发者|七两|
+
+
+
 
