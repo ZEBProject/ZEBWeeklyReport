@@ -43,11 +43,11 @@
 |博客链接          |简单概述         |贡献         |
 |----------------|----------------|-------------|
 |[谓词](http://www.jianshu.com/p/88be28860cde)|iOS中的谓词（NSPredicate）使用|阿刚|
+
 ## 开发效率
 |博客链接          |简单概述         |贡献         |
 |----------------|----------------|-------------|
 |[多个Target的使用](http://www.jianshu.com/p/d1608ff946a9)|讲述了iOS开发中多个Target的使用|阿刚|
-
 
 ## Apple通用部分
 |博客链接          |简单概述         |贡献         |
@@ -60,16 +60,17 @@
 |[DNS原理入门](http://www.ruanyifeng.com/blog/2016/06/dns.html)|讲的还是通俗易懂的|七两|
 |[互联网协议入门](http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html)|对互联网的分层进行了原理性的讲诉，强烈推荐|七两|
 |[“HTTPS”安全在哪里？](http://www.cnblogs.com/bugly/p/5543417.html)|通俗易懂的解释HTTPS的工作机制|七两|
+
 ## 其他
 |博客链接          |简单概述         |贡献         |
 |----------------|----------------|-------------|
 |[生成git标签](https://shields.io)|git上面readme中的标签生成|七两|
+|[使用hexo搭建gitpage博客](https://linghucong.js.org/2016/04/15/2016-04-15-hexo-github-pages-blog/)|用hexo免费搭建自己的博客|七两|
 ## 博客推荐
 |博客             |博主信息        |贡献         |
 |----------------|----------------|-------------|
 |[ibireme](https://blog.ibireme.com/)|YYKit的开发者，文章虽少，每篇经典透彻|七两|
-|[网易乐得技术团队](http://tech.lede.com/2017/02/15/rd/iOS/iOS_NSURLProtocol/)|网易乐得技术团队
-|七两|
+|[网易乐得技术团队](http://tech.lede.com/2017/02/15/rd/iOS/iOS_NSURLProtocol/)|网易乐得技术团队|七两|
 |[喵神](http://onevcat.com/)|喵神|七两|
 |[腾讯bugly](http://www.cnblogs.com/bugly/)|腾讯bugly|七两|
 |[Casa](https://casatwy.com/archives.html)|Casa|七两|
