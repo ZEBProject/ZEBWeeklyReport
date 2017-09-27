@@ -38,17 +38,29 @@
 ### 架构方向探索
 |类别|博客链接          |简单概述         |贡献         |
 |---|----------------|----------------|-------------|
-|网络|                |               |              |
+|网络框架|                |               |              |
+|缓存框架|                |               |              |
+|图片框架|                |               |              |
+|Hybrid框架|                |               |              |
+|APM框架|                |               |              |
 |    |[关于埋点](http://www.jianshu.com/p/0497afdad36d)|可复用而且高度解耦的用户统计埋点实现|阿刚|
+|设计模式|                |               |              |
+
 ### 扩展
 |博客链接          |简单概述         |贡献         |
 |----------------|----------------|-------------|
 |[谓词](http://www.jianshu.com/p/88be28860cde)|iOS中的谓词（NSPredicate）使用|阿刚|
+|[用户默认设置](http://www.cnblogs.com/azuo/p/5090718.html?utm_source=tuicool&utm_medium=referral)|iOS中的Setting中的用户默认设置|七两|
+|[用户默认设置具体属性](http://www.jianshu.com/p/9e1b21789076)|iOS中的Setting中的用户默认设置的具体属性解析|七两|
+
 
 ## 开发效率
 |博客链接          |简单概述         |贡献         |
 |----------------|----------------|-------------|
 |[多个Target的使用](http://www.jianshu.com/p/d1608ff946a9)|讲述了iOS开发中多个Target的使用|阿刚|
+|[Xcode Search功能详解](http://holko.pl/2016/04/26/xcode-search/)|iOS中搜索功能的深入|七两|
+|[iOS高效调试](http://www.jianshu.com/p/a4ae30a10fb8)|断点的高级调试|七两|
+|[与调试器共舞 - LLDB 的华尔兹](https://objccn.io/issue-19-2/)|LLDB调试器的高级使用|七两|
 
 ## Apple通用部分
 |博客链接          |简单概述         |贡献         |
