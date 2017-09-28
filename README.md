@@ -16,6 +16,7 @@
 **目录**
 
 - [Swift](#Swift)
+  - [学习资料](#学习资料)
 - [Object-C](#Object-C)
   - [多线程部分](#多线程部分)
   - [架构方向探索](#架构方向探索)
@@ -29,6 +30,12 @@
 
 
 ## Swift
+### 学习资料
+|资料网站          |简单概述         |贡献         |
+|----------------|----------------|-------------|
+|[swift.org](https://swift.org/documentation/#the-swift-programming-language)|官方的学习资料网站（英文）|七两|
+|[Raywenderlich的Swift视频教程-英文](https://videos.raywenderlich.com/courses/90-programming-in-swift/lessons/1)|官方的学习资料网站（英文）|七两|
+
 ## Object-C
 ### 多线程部分
 |博客链接          |简单概述         |贡献         |
