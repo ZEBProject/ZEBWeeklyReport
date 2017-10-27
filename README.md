@@ -80,6 +80,7 @@
 |[Xcode Search功能详解](http://holko.pl/2016/04/26/xcode-search/)|iOS中搜索功能的深入|七两|
 |[iOS高效调试](http://www.jianshu.com/p/a4ae30a10fb8)|断点的高级调试|七两|
 |[与调试器共舞 - LLDB 的华尔兹](https://objccn.io/issue-19-2/)|LLDB调试器的高级使用|七两|
+|[Swift Playground Markdown 的支持](http://blog.csdn.net/hello_hwc/article/details/53966889)|Swift Playground Markdown 的支持|七两|
 
 ## Apple通用部分
 |博客链接          |简单概述         |贡献         |
