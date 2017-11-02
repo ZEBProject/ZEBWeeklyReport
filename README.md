@@ -52,7 +52,7 @@
 ### 架构方向探索
 |类别|博客链接          |简单概述         |贡献         |
 |---|----------------|----------------|-------------|
-|网络框架|                |               |              |
+|网络框架|                |               |              |
 |缓存框架|                |               |              |
 |图片框架|                |               |              |
 |Hybrid框架|                |               |              |
@@ -67,13 +67,13 @@
 ### 源码解析
 |优秀SDK名称      |推荐理由|源码解读Blog与实践         |贡献         |
 |----------------|-------|------------------------|-------------|
+
 ### 扩展
 |博客链接          |简单概述         |贡献         |
 |----------------|----------------|-------------|
 |[谓词](http://www.jianshu.com/p/88be28860cde)|iOS中的谓词（NSPredicate）使用|阿刚|
 |[用户默认设置](http://www.cnblogs.com/azuo/p/5090718.html?utm_source=tuicool&utm_medium=referral)|iOS中的Setting中的用户默认设置|七两|
 |[用户默认设置具体属性](http://www.jianshu.com/p/9e1b21789076)|iOS中的Setting中的用户默认设置的具体属性解析|七两|
-
 
 ## 开发效率
 |博客链接          |简单概述         |贡献         |
@@ -82,12 +82,14 @@
 |[Xcode Search功能详解](http://holko.pl/2016/04/26/xcode-search/)|iOS中搜索功能的深入|七两|
 |[iOS高效调试](http://www.jianshu.com/p/a4ae30a10fb8)|断点的高级调试|七两|
 |[与调试器共舞 - LLDB 的华尔兹](https://objccn.io/issue-19-2/)|LLDB调试器的高级使用|七两|
+|[Swift Playground Markdown 的支持](http://blog.csdn.net/hello_hwc/article/details/53966889)|Swift Playground Markdown 的支持|七两|
 
 ## Apple通用部分
 |博客链接          |简单概述         |贡献         |
 |----------------|----------------|-------------|
 |[iOS App签名的原理](www.cocoachina.com/ios/20170602/19427.html)|bang大神讲诉了app签名的基本原理与由来|七两|
 |[iOS App后台运行](http://blog.csdn.net/u011270282/article/details/68066730)|后台运行实现总结|阿刚|
+|[iOS核心动画高级技巧](https://www.kancloud.cn/manual/ios/97759)|Core Animation介绍,关于calayer的用法，以及隐显式动画，以及图层性能的处理|亮亮|
 ## 网络知识
 |博客链接          |简单概述         |贡献         |
 |----------------|----------------|-------------|
