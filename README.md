@@ -48,7 +48,9 @@
 |[选择 GCD 还是 NSTimer ？](http://www.jianshu.com/p/0c050af6c5ee)|有关任务延迟或周期性执行的实现讨论|阿刚|
 |[pthread和NSThread](http://www.jianshu.com/p/d429b6802cdb)|iOS多线程之pthread和NSThread|阿刚|
 |[GCD](http://www.jianshu.com/p/2d57c72016c6)|iOS多线程之GCD|阿刚|
+|[GCD死锁](http://ios.jobbole.com/82622/)|五个案例让你明白GCD死锁|阿刚|
 |[NSOperation](http://www.jianshu.com/p/c49556a22863)|iOS多线程之NSOperation|阿刚|
+|[RunLoop](https://blog.ibireme.com/2015/05/18/runloop/)|深入理解RunLoop|阿刚|
 ### 架构方向探索
 |类别|博客链接          |简单概述         |贡献         |
 |---|----------------|----------------|-------------|
