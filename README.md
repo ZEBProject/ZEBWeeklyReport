@@ -47,6 +47,11 @@
 |[探讨iOS开发中各种锁](https://juejin.im/entry/5859236061ff4b006cbaae2d)|讲诉了iOS开发中各种锁的性能|七两|
 |[不再安全的 OSSpinLock](https://blog.ibireme.com/2016/01/16/spinlock_is_unsafe_in_ios/)|优先级反转问题|七两|
 |[选择 GCD 还是 NSTimer ？](http://www.jianshu.com/p/0c050af6c5ee)|有关任务延迟或周期性执行的实现讨论|阿刚|
+|[pthread和NSThread](http://www.jianshu.com/p/d429b6802cdb)|iOS多线程之pthread和NSThread|阿刚|
+|[GCD](http://www.jianshu.com/p/2d57c72016c6)|iOS多线程之GCD|阿刚|
+|[GCD死锁](http://ios.jobbole.com/82622/)|五个案例让你明白GCD死锁|阿刚|
+|[NSOperation](http://www.jianshu.com/p/c49556a22863)|iOS多线程之NSOperation|阿刚|
+|[RunLoop](https://blog.ibireme.com/2015/05/18/runloop/)|深入理解RunLoop|阿刚|
 ### 架构方向探索
 |类别|博客链接          |简单概述         |贡献         |
 |---|----------------|----------------|-------------|
@@ -88,6 +93,7 @@
 |[iOS App签名的原理](www.cocoachina.com/ios/20170602/19427.html)|bang大神讲诉了app签名的基本原理与由来|七两|
 |[iOS App后台运行](http://blog.csdn.net/u011270282/article/details/68066730)|后台运行实现总结|阿刚|
 |[iOS核心动画高级技巧](https://www.kancloud.cn/manual/ios/97759)|Core Animation介绍,关于calayer的用法，以及隐显式动画，以及图层性能的处理|亮亮|
+|[iOS控件](http://www.jianshu.com/p/adbf1ed14ffc)|UI控件创建使用weak还是strong|阿刚|
 ## 网络知识
 |博客链接          |简单概述         |贡献         |
 |----------------|----------------|-------------|
