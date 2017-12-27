@@ -57,7 +57,6 @@
 |---|----------------|----------------|-------------|
 |网络框架|                |               |              |
 |缓存框架|                |               |              |
-|网络框架|                |               |              |
 |图片框架|                |               |              |
 |Hybrid框架|                |               |              |
 |APM框架|                |               |              |
@@ -67,7 +66,10 @@
 ||AOP设计模式|统一入口，有效的统一调用，增加分层|七两|
 ||单例模式的理解|正常开发或封装时，对于单例的一个使用理解|七两|
 ||统一导航的方式|对于模态／push／native／h5/混合页面的跳转逻辑统一（待续）|七两|
+|组件化框架实现|                |               |              |
 ||组件化的探索|参考蘑菇街的设计思路（待续）|七两|
+|本地Router的框架实现|                |               |              |
+
 
 ### AsyncDisplayKit异步渲染
 |资料          |资料介绍         |贡献         |
@@ -110,6 +112,15 @@
 |[iOS App后台运行](http://blog.csdn.net/u011270282/article/details/68066730)|后台运行实现总结|阿刚|
 |[iOS核心动画高级技巧](https://www.kancloud.cn/manual/ios/97759)|Core Animation介绍,关于calayer的用法，以及隐显式动画，以及图层性能的处理|亮亮|
 |[iOS控件](http://www.jianshu.com/p/adbf1ed14ffc)|UI控件创建使用weak还是strong|阿刚|
+|[圆角卡顿刨根问底](http://awhisper.github.io/2016/03/12/%E6%BB%9A%E5%8A%A8%E5%9C%86%E8%A7%92%E5%8D%A1%E9%A1%BF%E5%88%A8%E6%A0%B9%E9%97%AE%E5%BA%95/)|关于离屏渲染的深入理解|七两|
+|[离屏渲染学习笔记](http://foggry.com/blog/2015/05/06/chi-ping-xuan-ran-xue-xi-bi-ji/?utm_source=tuicool)|关于离屏渲染的概念理解|七两|
+|[深入理解iOS开发中的BitCode功能](http://www.jianshu.com/p/f42a33f5eb61)|理解bitcode的意思与作用|七两|
+|[iOS 图文并茂的带你了解深拷贝与浅拷贝](http://www.cnblogs.com/beckwang0912/p/7212075.html)|图解深拷贝与浅拷贝|七两|
+|[NSHashtable和NSMaptable](http://zhangbuhuai.com/nshashtable-and-nsmaptable/)|理解NSHashTable与NSMapTable|七两|
+|[NSMapTable: 不只是一个能放weak指针的 NSDictionary](http://www.isaced.com/post-235.html)|理解NSMapTable|七两|
+|[使用iOS AirPrint 让你的APP轻松实现打印功能](https://www.jianshu.com/p/f5863a1833d0)|Airprint的简单介绍|七两|
+|[iOS MDM详解 — 初识和深入](https://www.jianshu.com/p/6112050ea31a)|MDM的简单介绍|七两|
+
 ## 网络知识
 |博客链接          |简单概述         |贡献         |
 |----------------|----------------|-------------|
