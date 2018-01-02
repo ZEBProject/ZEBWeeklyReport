@@ -120,6 +120,8 @@
 |[NSMapTable: 不只是一个能放weak指针的 NSDictionary](http://www.isaced.com/post-235.html)|理解NSMapTable|七两|
 |[使用iOS AirPrint 让你的APP轻松实现打印功能](https://www.jianshu.com/p/f5863a1833d0)|Airprint的简单介绍|七两|
 |[iOS MDM详解 — 初识和深入](https://www.jianshu.com/p/6112050ea31a)|MDM的简单介绍|七两|
+|[Custom Container View Controller](http://www.cocoachina.com/industry/20140523/8528.html)|对于容器vc的较为深入的剖析|七两|
+|[iOS5中UIViewController的新方法](http://blog.devtang.com/2012/02/06/new-methods-in-uiviewcontroller-of-ios5/)|介绍addChildViewController|七两|
 
 ## 网络知识
 |博客链接          |简单概述         |贡献         |
